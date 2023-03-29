@@ -4,6 +4,6 @@
 
 
 # Vectorai
-##Computer assisted method for solving differential equations
+## Computer assisted method for solving differential equations
 Vectorai exploits the new capabilities of AI models in imagination based on an image input to use methods that were previously only possible for humans to solve differential equations
 
